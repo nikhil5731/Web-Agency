@@ -18,8 +18,8 @@ export default function Contact() {
             Get In Touch
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Ready to start your next project? Let's discuss how we can help bring your vision to life.
-            We're here to answer any questions and provide you with the best solutions.
+            Ready to start your next project? Let&apos;s connect and discuss your project needs.
+            We&apos;re here to answer any questions and provide you with the best solutions.
           </p>
         </motion.div>
 
@@ -139,8 +139,8 @@ export default function Contact() {
                 Contact Information
               </h3>
               <p className="text-gray-600 mb-8 leading-relaxed">
-                We'd love to hear from you. Reach out to us through any of these channels 
-                and we'll get back to you as soon as possible.
+                We&apos;d love to hear from you! Reach out to us through any of these channels 
+                and we&apos;ll get back to you as soon as possible.
               </p>
             </div>
 

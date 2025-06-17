@@ -69,7 +69,7 @@ export default function About() {
             About Our Agency
           </h2>
           <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-            Founded in 2019, we've been at the forefront of digital innovation, helping businesses 
+            Founded in 2019, we&apos;ve been at the forefront of digital innovation, helping businesses 
             of all sizes establish their online presence and achieve their digital goals. Our passion 
             for technology and design drives us to create solutions that not only look great but also 
             perform exceptionally.

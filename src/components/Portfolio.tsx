@@ -75,7 +75,7 @@ export default function Portfolio() {
             Our Portfolio
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Explore our latest projects and see how we've helped businesses achieve their digital goals.
+            Here&apos;s a selection of our recent work, showcasing our commitment to quality and innovation.
             Each project is crafted with attention to detail and user experience.
           </p>
         </motion.div>

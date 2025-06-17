@@ -57,8 +57,7 @@ export default function Services() {
             Our Services
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            We offer comprehensive digital solutions to help your business thrive in the digital world.
-            From concept to launch, we're with you every step of the way.
+            We&apos;re passionate about delivering results that exceed expectations.
           </p>
         </motion.div>
 
